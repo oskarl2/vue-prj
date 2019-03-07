@@ -1,0 +1,11 @@
+button {
+  border: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  outline: 0;
+  cursor: pointer;
+  color: #fff;
+  background-color: #27b99a;
+  padding: 10px 30px;
+  border-radius: 30px;
+}
